@@ -5,7 +5,7 @@
 - 📫 How to reach me Follow me on Facebook (Youssef Essa)
 - Or on Discord 
 - 🏫 CS (AI and data science)
--  at Alexandria university
+ at Alexandria university
 - ⚡ Java Developer
 - Check My own Remote Repo for impressive Projects!!
 
