@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Web programming 
 - 💞️ I’m looking to collaborate on my projects for web 
 - 📫 How to reach me Follow me on Facebook (Youssef Essa)
-- Or on Discord 
+Or on Discord 
 - 🏫 CS (AI and data science)
  at Alexandria university
 - ⚡ Java Developer
