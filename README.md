@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my projects for web 
 - 📫 How to reach me Follow me on Facebook (Youssef Essa)
 Or on Discord 
-- 🏫 CS (AI and data science)
+- 🏫 CS (Data Science and AI)
  at Alexandria university
 - ⚡ Java Developer
 - Check My own Remote Repo for impressive Projects!!
