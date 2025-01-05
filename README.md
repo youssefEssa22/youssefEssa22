@@ -1,7 +1,7 @@
 - 👋 Hi,I am Youssef Essa 
 - 👀 I’m interested in Self development 
-- 🌱 I’m currently learning Python and Web programming 
-- 💞️ I’m looking to collaborate on my projects for web 
+- 🌱 I’m currently learning Python and Data Analysis
+- 💞️ I’m looking to collaborate on my projects 
 - 📫 How to reach me Follow me on Facebook (Youssef Essa)
 Or on Discord 
 - 🏫 CS (Data Science and AI)
