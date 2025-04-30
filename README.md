@@ -1,14 +1,36 @@
-- 👋 Hi,I am Youssef Essa 
-- 👀 I’m interested in Self development 
-- 🌱 I’m currently learning Python and Machine Learning
-- 📫 How to reach me Follow me on Facebook (Youssef Essa)
-Or on Discord 
-- 🏫 CS (Data Science and AI)
- at Alexandria university
-- ⚡ Java Developer
-- Check My own Remote Repo for impressive Projects!!
+# 👋 Hi there, I'm Youssef Essa
 
-<!---
-youssefEssa22/youssefEssa22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Computer Science Student (Data Science & AI Track)** at Alexandria University  
+💻 **Aspiring Software Engineer & Java Developer**  
+🌱 Currently diving into **Python**, **Machine Learning**, and exploring **AI applications**  
+🚀 Passionate about **self-development**, **problem-solving**, and building real-world tech solutions  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Languages:** Java, Python, C++, JavaScript  
+- **Technologies & Tools:** Git & GitHub, Linux, VS Code, IntelliJ, Jupyter Notebooks  
+- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow (beginner), Spring Boot  
+- **Databases:** MySQL, SQLite, MongoDB (basics)  
+- **Other Skills:** Data Analysis, Object-Oriented Programming, REST APIs
+
+---
+
+## 📌 Featured Projects
+
+Check out my [GitHub repositories](https://github.com/YoussefEssa22?tab=repositories) for some of the projects I've worked on — from small ML experiments to Java applications!
+
+---
+
+## 📫 Let's Connect!
+
+- 💬 **Discord:** YoussefEssa#XXXX (replace with actual tag)  
+- 🌐 **Facebook:** [Youssef Essa](https://www.facebook.com/YOUR_USERNAME)  
+- ✉️ **Email:** youssef.essa@example.com *(optional)*  
+- 🔗 **LinkedIn:** *(recommended to add if you have one)*
+
+---
+
+> ⚡ **Fun Fact:** I'm always up for a challenge, and I believe continuous learning is the key to growth. Let's build something amazing together!
+
