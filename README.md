@@ -25,10 +25,8 @@ Check out my [GitHub repositories](https://github.com/YoussefEssa22?tab=reposito
 
 ## 📫 Let's Connect!
 
-- 💬 **Discord:** YoussefEssa#XXXX (replace with actual tag)  
-- 🌐 **Facebook:** [Youssef Essa](https://www.facebook.com/YOUR_USERNAME)  
-- ✉️ **Email:** youssef.essa@example.com *(optional)*  
-- 🔗 **LinkedIn:** *(recommended to add if you have one)*
+- 💬 **Discord:** Youssef Essa
+- 🌐 **Facebook:** Youssef Essa
 
 ---
 
