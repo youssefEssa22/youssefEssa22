@@ -30,7 +30,6 @@ Check out my [GitHub repositories](https://github.com/YoussefEssa22?tab=reposito
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat)  
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 
-
 ## 📈 GitHub Stats
 
 <p align="center">
