@@ -43,9 +43,8 @@ Check out my [GitHub repositories](https://github.com/YoussefEssa22?tab=reposito
 ## 📫 Connect With Me
 
 - 📘 Facebook: [Youssef Essa](https://facebook.com/YOUR_USERNAME)
-- 💬 Discord: `YoussefEssa#XXXX` *(replace with actual tag)*
-- 📨 Email: youssef.essa@example.com *(optional)*
-- 💼 LinkedIn: *(recommended if available)*
+- 💬 Discord: YoussefEssa#XXXX
+- 💼 LinkedIn: https://www.linkedin.com/in/youssef-essa-016865343/
 
 ---
 
