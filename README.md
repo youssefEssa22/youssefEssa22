@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Youssef Essa
 
 🎓 **Computer Science Student (Data Science & AI Track)** at Alexandria University  
-💻 **Aspiring Software Engineer & Java Developer**  
+💻 **Aspiring Software Engineer & Python Developer**  
 🌱 Currently diving into **Python**, **Machine Learning**, and exploring **AI applications**  
 🚀 Passionate about **self-development**, **problem-solving**, and building real-world tech solutions  
 
