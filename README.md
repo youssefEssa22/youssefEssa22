@@ -1,12 +1,16 @@
 # 👋 Hi there, I'm **Youssef Essa**
 
+<p align="center">
+  <img src="./banner.svg" alt="banner" width="100%"/>
+</p>
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=2E8BFF&width=600&lines=Computer+Science+Student+%7C+Data+Science+%26+AI;Aspiring+Python+Developer+%7C+ML+Enthusiast;Building+ML+Projects+%26+Deployments" alt="Typing SVG" />
 </p>
 
-🎓 **Computer Science Student (Data Science & AI Track)** — Alexandria University  
-💻 **Aspiring Software Engineer & Python Developer**  
-🌱 Currently: _Python, Machine Learning, Model Deployment, MLOps_  
+🎓 **Computer Science Student (Data Science & AI Track)** — Alexandria University  \n
+💻 **Aspiring Software Engineer & Python Developer**  \n
+🌱 Currently: _Python, Machine Learning, Model Deployment, MLOps_  \n
 🚀 Passionate about **self-development**, **problem-solving**, and building real-world tech solutions
 
 ---
@@ -45,8 +49,6 @@
 ---
 
 ## 📌 Featured Projects
-> _(Pin these repos on GitHub so they show under your profile header)_
-
 - **Customer Segmentation Dashboard** — KMeans, PCA, interactive Streamlit dashboard (clustering insights & visualizations).  
 - **ML Model API** — Trained regression/classification model served with FastAPI + Docker.  
 - **Snake AI (Academic)** — Evolutionary & ACO variations (college project).  
@@ -55,8 +57,16 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 Showcase (animated skills & wave)
+<p align="left">
+  <img src="./skills.svg" alt="skills" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./wave.svg" alt="wave" width="48" />
+</p>
 
+---
+
+## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YoussefEssa22&show_icons=true&theme=tokyonight&hide_border=true" alt="Youssef's GitHub stats" />
   <br/>
@@ -67,29 +77,12 @@
 
 ---
 
-## 🚀 Highlights
-- ✅ Strong foundation in ML pipeline: **EDA → Feature Engineering → Modeling → Evaluation → Deployment**  
-- ✅ Completed mini-projects using **Streamlit**, **FastAPI**, and **Docker**  
-- 📚 Continuously learning: **MLOps**, **Data Engineering basics**, and **Cloud deployment**
-
----
-
 ## 🤝 Let's collaborate / Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/youssef-essa-016865343/  
 - 📧 Email: `your.email@example.com` *(replace with your email)*  
-- 📘 Facebook: [Youssef Essa](https://facebook.com/YOUR_USERNAME)  
-- 💬 Discord: `YoussefEssa#XXXX` *(optional)*
 
 **Want to try one of my demos?** → _Check pinned repos or message me and I’ll share a live link._
 
 ---
 
 > ⚡ **Fun Fact:** I love turning small ideas into working prototypes — from data cleaning tricks to a deployed model that actually helps users.
-
----
-
-### 📌 Tips to finalize:
-1. **Pin 3–4 repos** you want to highlight so they appear on your GitHub profile.  
-2. Replace `your.email@example.com` & social placeholders with real links before publishing.  
-3. If you want, أخلي لك نسخة بالعربي أو أضيف animated GIFs/cover image (ملف banner) — أعمل لي طلب بسيط وأعدّله.  
-
