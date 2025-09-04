@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="160">
+  <style>
+    .label { font: 600 14px/1 "Segoe UI", Roboto, sans-serif; fill:#333; }
+    .bar-bg { fill:#eee; rx:8; }
+    .bar-fill { rx:8; }
+    .text-white { fill: #fff; font: 700 12px "Segoe UI", Roboto, sans-serif; }
+  </style>
+  <rect x="10" y="10" width="680" height="36" class="bar-bg"/>
+  <rect x="10" y="10" width="0" height="36" class="bar-fill" fill="#3776AB">
+    <animate attributeName="width" from="0" to="540" dur="1.2s" fill="freeze"/>
+  </rect>
+  <text x="20" y="33" class="text-white">Python — 90%</text>
+
+  <rect x="10" y="60" width="680" height="36" class="bar-bg"/>
+  <rect x="10" y="60" width="0" height="36" class="bar-fill" fill="#F7931E">
+    <animate attributeName="width" from="0" to="480" dur="1.2s" fill="freeze" begin="0.2s"/>
+  </rect>
+  <text x="20" y="83" class="text-white">Machine Learning — 80%</text>
+
+  <rect x="10" y="110" width="680" height="36" class="bar-bg"/>
+  <rect x="10" y="110" width="0" height="36" class="bar-fill" fill="#2496ED">
+    <animate attributeName="width" from="0" to="360" dur="1.2s" fill="freeze" begin="0.4s"/>
+  </rect>
+  <text x="20" y="133" class="text-white">Docker & Deployment — 65%</text>
+</svg>
