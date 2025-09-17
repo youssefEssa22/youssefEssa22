@@ -88,8 +88,3 @@
 
 ---
 
-### 📌 Tips to finalize:
-1. **Pin 3–4 repos** you want to highlight so they appear on your GitHub profile.  
-2. Replace `your.email@example.com` & social placeholders with real links before publishing.  
-3. If you want, أخلي لك نسخة بالعربي أو أضيف animated GIFs/cover image (ملف banner) — أعمل لي طلب بسيط وأعدّله.  
-
